@@ -1,0 +1,10 @@
+=== DEMONSTRATING POLYMORPHIC LOOP ===
+Executing endOfMonth() on all accounts using parent class reference...
+
+Account type identified by runtime: SavingsAccount
+Savings Account SAV-101 processed for month-end. Interest added: $25.0. New Balance: $525.0
+----------------------------------------
+Account type identified by runtime: CurrentAccount
+Current Account CUR-202 processed for month-end. Maintenance fee deducted: $15.0. New Balance: $-165.0
+----------------------------------------
+PS C:\Users\Lenovo\OneDrive\BankAssignment> 
